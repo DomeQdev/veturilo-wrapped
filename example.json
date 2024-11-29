@@ -1,0 +1,827 @@
+[
+    {
+        "date": null,
+        "action": "opis",
+        "cost": null
+    },
+    {
+        "date": 1704067200000,
+        "action": "Carry forward 2023",
+        "cost": 77
+    },
+    {
+        "date": 1709278657000,
+        "action": "[Rental #217364821] e-SMARTbike 2.0 RFID \"SWAP\" 613851 until 08:57:26 (Metro Trocka - Andersa - Muranowska)",
+        "cost": null
+    },
+    {
+        "date": 1709281167000,
+        "action": "[Rental #217371188] e-SMARTbike 2.0 RFID \"SWAP\" 613694 until 09:36:13 (Plac Trzech Krzyży - Warsaw UNIT)",
+        "cost": null
+    },
+    {
+        "date": 1709282235000,
+        "action": "[Rental #217373316] e-SMARTbike 2.0 RFID \"SWAP\" 613607 until 09:38:32 (Warsaw UNIT - Metro Rondo Daszyńskiego) (service fee: PLN 15.00) (Opłata serwisowa za zwrot wewnątrz strefy PLN 15,00)",
+        "cost": -15
+    },
+    {
+        "date": 1709282333000,
+        "action": "[Rental #217373521] e-SMARTbike 2.0 RFID \"SWAP\" 613562 until 09:56:02 (Metro Rondo Daszyńskiego - Wolska - Płocka)",
+        "cost": null
+    },
+    {
+        "date": 1709282493000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1709287602000,
+        "action": "Decreased rental service fee: Rower 613607 01.03. 09:37:15 [serviceFee]",
+        "cost": 15
+    },
+    {
+        "date": 1709297485000,
+        "action": "[Rental #217408658] e-SMARTbike 2.0 RFID \"SWAP\" 613571 until 14:39:28 (Metro Centrum Nauki Kopernik - al. Wilanowska - Przyczółkowa)",
+        "cost": -6
+    },
+    {
+        "date": 1709300368000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1709808411000,
+        "action": "[Rental #218146173] e-SMARTbike 2.0 RFID \"SWAP\" 613731 until 11:51:32 (Metro Bemowo - Wola Park)",
+        "cost": null
+    },
+    {
+        "date": 1709816963000,
+        "action": "[Rental #218162159] e-SMARTbike 2.0 RFID \"SWAP\" 613609 until 14:13:45 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1709888188000,
+        "action": "[Rental #218253249] e-SMARTbike 2.0 RFID \"SWAP\" 613702 until 10:03:29 (Radzymińska - Łodygowa - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1709903330000,
+        "action": "[Rental #218280914] e-SMARTbike 2.0 RFID \"SWAP\" 613887 until 14:25:43 (Arkadia - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1710343544000,
+        "action": "[Rental #218828448] e-SMARTbike 2.0 RFID \"SWAP\" 613598 until 16:41:10 (Darwina - Nusbauma-Hilarowicza - Metro Kondratowicza )",
+        "cost": null
+    },
+    {
+        "date": 1710422841000,
+        "action": "[Rental #218945246] e-SMARTbike 2.0 RFID \"SWAP\" 613894 until 14:32:38 (Jagiellońska - Plac Hallera - Floriańska - Park Praski)",
+        "cost": null
+    },
+    {
+        "date": 1710502210000,
+        "action": "[Rental #219071318] e-SMARTbike 2.0 RFID \"SWAP\" 613692 until 12:37:45 (Andersa - Muranowska - Krakowskie Przedmieście - Trębacka)",
+        "cost": null
+    },
+    {
+        "date": 1710502727000,
+        "action": "[Rental #219072541] e-SMARTbike 2.0 RFID \"SWAP\" 613572 until 12:39:19 (Krakowskie Przedmieście - Trębacka)",
+        "cost": null
+    },
+    {
+        "date": 1710502772000,
+        "action": "[Rental #219072636] e-SMARTbike 2.0 RFID \"SWAP\" 613561 until 12:57:25 (Krakowskie Przedmieście - Trębacka - Krucza - Wspólna)",
+        "cost": null
+    },
+    {
+        "date": 1710503903000,
+        "action": "[Rental #219075421] e-SMARTbike 2.0 RFID \"SWAP\" 613817 until 13:12:43 (Krucza - Wspólna - Metro Rondo Daszyńskiego) - Invalid (No charge)",
+        "cost": null
+    },
+    {
+        "date": 1710505949000,
+        "action": "[Rental #219080720] e-SMARTbike 2.0 RFID \"SWAP\" 613754 until 14:09:26 (Metro Trocka - recording_219080720) (service fee: PLN 150.00) (Reklamacja uznana ZG-630214)",
+        "cost": -156
+    },
+    {
+        "date": 1710507123000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1710507756000,
+        "action": "Decreased rental service fee: Bike 613754 15.03. 13:32:29 [serviceFee]",
+        "cost": 150
+    },
+    {
+        "date": 1710507771000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1710507780000,
+        "action": "Increased rental service fee: Bike 613754 15.03. 13:32:29 [serviceFee]",
+        "cost": -150
+    },
+    {
+        "date": 1710508166000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1710508351000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1711288272000,
+        "action": "Decreased rental service fee: Rower 613754 15.03. 13:32:29 [serviceFee]",
+        "cost": 150
+    },
+    {
+        "date": 1711454918000,
+        "action": "[Rental #220418303] Bike 610581 until 13:13:44 (Jagiellońska - Plac Hallera - Floriańska - Park Praski)",
+        "cost": null
+    },
+    {
+        "date": 1711456312000,
+        "action": "[Rental #220421454] Bike 613393 until 13:35:08 (Plac Powstańców Warszawy - Metro Centrum Nauki Kopernik)",
+        "cost": null
+    },
+    {
+        "date": 1711456523000,
+        "action": "[Rental #220421954] e-SMARTbike 2.0 RFID \"SWAP\" 613713 until 13:51:52 (Metro Centrum Nauki Kopernik - Radzymińska - Piotra Skargi)",
+        "cost": null
+    },
+    {
+        "date": 1711549243000,
+        "action": "[Rental #220577259] Bike 610856 until 15:22:23 (BIKE 610856 - Metro Centrum Nauki Kopernik) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1711549523000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": 1711986231000,
+        "action": "[Rental #221136856] Bike 611486 until 17:46:53 (BIKE 611486 - Górczewska - Płocka) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1711986639000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": 1711987800000,
+        "action": "[Rental #221140316] e-SMARTbike 2.0 RFID \"SWAP\" 613909 until 18:29:58 (Oboźna - Kopernika - Radzymińska - Piotra Skargi)",
+        "cost": null
+    },
+    {
+        "date": 1711989012000,
+        "action": "[Rental #221143583] Bike 613287 until 18:41:16 (Radzymińska - Piotra Skargi - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1711989436000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1711989631000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712411615000,
+        "action": "[Rental #221799887] Bike 612686 until 15:58:05 (Metro Targówek Mieszkaniowy - Rondo Żaba)",
+        "cost": null
+    },
+    {
+        "date": 1712411984000,
+        "action": "[Rental #221801333] e-SMARTbike 2.0 RFID \"SWAP\" 613742 until 16:12:44 (Rondo Żaba - Sanguszki - Wybrzeże Gdańskie)",
+        "cost": null
+    },
+    {
+        "date": 1712412831000,
+        "action": "[Rental #221804518] e-SMARTbike 2.0 RFID \"SWAP\" 613868 until 16:21:38 (Sanguszki - Wybrzeże Gdańskie - Lipowa - Dobra)",
+        "cost": null
+    },
+    {
+        "date": 1712413687000,
+        "action": "[Rental #221807784] e-SMARTbike 2.0 RFID \"SWAP\" 613817 until 16:39:46 (Lipowa - Dobra - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1712561015000,
+        "action": "[Rental #222095056] e-SMARTbike 2.0 RFID \"SWAP\" 613651 until 09:30:58 (Metro Kondratowicza - BIKE 613651) (service fee: PLN 15.00) (Opłata serwisowa za zwrot wewnątrz strefy PLN 15,00)",
+        "cost": -15
+    },
+    {
+        "date": 1712561639000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712587243000,
+        "action": "[Rental #222170138] e-SMARTbike 2.0 RFID \"SWAP\" 613843 until 16:57:55 (Arkadia - Św. Wincentego – Kołowa)",
+        "cost": null
+    },
+    {
+        "date": 1712842470000,
+        "action": "[Rental #222714518] Bike 610748 until 15:41:28 (Metro Słodowiec - Marymoncka - Dewajtis)",
+        "cost": null
+    },
+    {
+        "date": 1712842906000,
+        "action": "[Rental #222716236] e-SMARTbike 2.0 RFID \"SWAP\" 613873 until 16:46:44 (Marymoncka - Dewajtis - BIKE 613873) (service fee: PLN 150.00) (reklamacja uznana ZG-683663)",
+        "cost": -170
+    },
+    {
+        "date": 1712845402000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712845589000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712845910000,
+        "action": "Decreased rental service fee: Rower 613873 11.04. 15:41:46 [serviceFee]",
+        "cost": 150
+    },
+    {
+        "date": 1712845934000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712845947000,
+        "action": "Increased rental service fee: Rower 613873 11.04. 15:41:46 [serviceFee]",
+        "cost": -150
+    },
+    {
+        "date": 1712846804000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1712846996000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1715854247000,
+        "action": "Decreased rental service fee: Bike 613873 11.04. 15:41:46 [serviceFee]",
+        "cost": 150
+    },
+    {
+        "date": 1715939727000,
+        "action": "[Rental #228827382] e-SMARTbike 2.0 RFID \"SWAP\" 613719 until 12:15:19 (Metro Nowy Świat - Uniwersytet - Czerniakowska - Gagarina)",
+        "cost": null
+    },
+    {
+        "date": 1716376017000,
+        "action": "[Rental #229696588] e-SMARTbike 2.0 RFID \"SWAP\" 613633 until 13:20:40 (Darwina - Nusbauma-Hilarowicza - Pl. Bankowy - Ratusz)",
+        "cost": null
+    },
+    {
+        "date": 1717676313000,
+        "action": "[Rental #232495561] e-SMARTbike 2.0 RFID \"SWAP\" 613809 until 14:56:55 (Krakowskie Przedmieście - Trębacka - Radzymińska - Łodygowa)",
+        "cost": -6
+    },
+    {
+        "date": 1717678615000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1717753237000,
+        "action": "[Rental #232677161] Bike 610435 until 11:44:53 (Sierakowskiego - Kłopotowskiego - Ratuszowa - ZOO)",
+        "cost": null
+    },
+    {
+        "date": 1717753512000,
+        "action": "[Rental #232677942] e-SMARTbike 2.0 RFID \"SWAP\" 613703 until 12:05:01 (Ratuszowa - ZOO - Plac Trzech Krzyży)",
+        "cost": null
+    },
+    {
+        "date": 1717754741000,
+        "action": "[Rental #232681549] e-SMARTbike 2.0 RFID \"SWAP\" 613917 until 12:20:24 (Plac Trzech Krzyży - Metro Rondo Daszyńskiego)",
+        "cost": null
+    },
+    {
+        "date": 1718186902000,
+        "action": "[Rental #233637809] Bike 611387 until 12:17:48 (Al.KEN – Płaskowickiej - Branickiego - Ledóchowskiej)",
+        "cost": null
+    },
+    {
+        "date": 1718619989000,
+        "action": "[Rental #234586605] Bike 611899 until 12:29:46 (Marszałkowska - Al. Jerozolimskie - Metro Świętokrzyska)",
+        "cost": null
+    },
+    {
+        "date": 1718620216000,
+        "action": "[Rental #234587231] e-SMARTbike 2.0 RFID \"SWAP\" 613537 until 13:11:45 (Metro Świętokrzyska - Metro Słodowiec)",
+        "cost": -6
+    },
+    {
+        "date": 1718622705000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1719224094000,
+        "action": "[Rental #235983517] e-SMARTbike 2.0 RFID \"SWAP\" 613912 until 12:17:21 (Krakowskie Przedmieście - Trębacka - Miodowa)",
+        "cost": null
+    },
+    {
+        "date": 1719673755000,
+        "action": "[Rental #237100398] Bike 612981 until 17:13:58 (Radzymińska - Trocka - Metro Targówek Mieszkaniowy )",
+        "cost": null
+    },
+    {
+        "date": 1719684619000,
+        "action": "[Rental #237141382] Bike 610035 until 20:25:36 (Metro Targówek Mieszkaniowy )",
+        "cost": null
+    },
+    {
+        "date": 1720421205000,
+        "action": "[Rental #238598160] e-SMARTbike 2.0 RFID \"SWAP\" 613881 until 09:00:27 (Metro Trocka - Metro Szwedzka)",
+        "cost": null
+    },
+    {
+        "date": 1720425915000,
+        "action": "[Rental #238609080] e-SMARTbike 2.0 RFID \"SWAP\" 613756 until 10:07:09 (The Park Warsaw)",
+        "cost": null
+    },
+    {
+        "date": 1720426050000,
+        "action": "[Rental #238609352] e-SMARTbike 2.0 RFID \"SWAP\" 613889 until 10:27:25 (The Park Warsaw - Plac Narutowicza)",
+        "cost": null
+    },
+    {
+        "date": 1720620044000,
+        "action": "[Rental #239078290] Bike 611043 until 16:08:55 (Rondo Starzyńskiego - Św. Wincentego – Kołowa)",
+        "cost": null
+    },
+    {
+        "date": 1720628238000,
+        "action": "[Rental #239113075] Bike 611095 until 18:32:37 (Metro Targówek Mieszkaniowy - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1720705558000,
+        "action": "[Rental #239270595] Bike 611758 until 15:55:43 (The Park Warsaw - Grójecka - PKP Rakowiec)",
+        "cost": null
+    },
+    {
+        "date": 1720948668000,
+        "action": "[Rental #239748286] Bike 612214 until 11:26:24 (OSiR Wawer - PKP Międzylesie)",
+        "cost": null
+    },
+    {
+        "date": 1720949219000,
+        "action": "[Rental #239749402] e-SMARTbike 2.0 RFID \"SWAP\" 613729 until 11:51:21 (PKP Międzylesie - Bysławska) (Reklamacja uznana przez chat)",
+        "cost": -6
+    },
+    {
+        "date": 1720950681000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1720972694000,
+        "action": "Decreased rental base price: Bike 613729 14.07. 11:26:59 [basePrice]",
+        "cost": 6
+    },
+    {
+        "date": 1721134518000,
+        "action": "[Rental #240165483] Bike 612660 until 15:06:19 (Wola-Ratusz - al. Prymasa Tysiąclecia - Górczewska)",
+        "cost": null
+    },
+    {
+        "date": 1721146014000,
+        "action": "[Rental #240210423] e-SMARTbike 2.0 RFID \"SWAP\" 613640 until 18:13:21 (Metro Targówek Mieszkaniowy )",
+        "cost": null
+    },
+    {
+        "date": 1721146037000,
+        "action": "[Rental #240210534] Bike 612346 until 18:17:38 (Metro Targówek Mieszkaniowy - Radzymińska - Łodygowa)",
+        "cost": null
+    },
+    {
+        "date": 1721409852000,
+        "action": "[Rental #240846127] Bike 613214 until 19:29:37 (Metro Targówek Mieszkaniowy - Radzymińska - Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1722261168000,
+        "action": "[Rental #242632361] e-SMARTbike 2.0 RFID \"SWAP\" 613863 until 16:12:40 (Metro Słodowiec - Miodowa)",
+        "cost": null
+    },
+    {
+        "date": 1722449736000,
+        "action": "[Rental #243105232] Bike 611215 until 20:24:00 (BIKE 611215 - Metro Centrum Nauki Kopernik) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1722450439000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": 1722453906000,
+        "action": "[Rental #243120364] Bike 611174 until 21:49:18 (Kościelna - Piesza - Metro Trocka)",
+        "cost": -1
+    },
+    {
+        "date": 1722454735000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722455358000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722526792000,
+        "action": "[Rental #243258624] Bike 611922 until 18:42:25 (Raszyńska - Wawelska - Wybrzeże Szczecińskie - Stadion Narodowy)",
+        "cost": -4
+    },
+    {
+        "date": 1722527935000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722530545000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722530573000,
+        "action": "[Rental #243275909] e-SMARTbike 2.0 RFID \"SWAP\" 613750 until 19:40:32 (Wybrzeże Szczecińskie - Stadion Narodowy - Dworzec Wschodni - Kijowska)",
+        "cost": -6
+    },
+    {
+        "date": 1722534032000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722535863000,
+        "action": "[Rental #243297699] e-SMARTbike 2.0 RFID \"SWAP\" 613540 until 20:11:37 (Wybrzeże Szczecińskie - Stadion Narodowy)",
+        "cost": null
+    },
+    {
+        "date": 1722535950000,
+        "action": "[Rental #243298020] Bike 612784 until 20:55:25 (Wybrzeże Szczecińskie - Stadion Narodowy - Metro Trocka)",
+        "cost": -1
+    },
+    {
+        "date": 1722538525000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1722538550000,
+        "action": "[Rental #243307146] e-SMARTbike 2.0 RFID \"SWAP\" 613515 until 21:17:20 (Metro Trocka - Urząd Miasta Marki)",
+        "cost": -6
+    },
+    {
+        "date": 1722539840000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1723909806000,
+        "action": "[Rental #246207275] e-SMARTbike 2.0 RFID \"SWAP\" 613893 until 18:09:14 (Św. Wincentego – Kołowa - Andersa - Muranowska)",
+        "cost": null
+    },
+    {
+        "date": 1723912271000,
+        "action": "[Rental #246215097] Bike 613172 until 18:42:47 (Plac Inwalidów - Metro Dworzec Gdański)",
+        "cost": null
+    },
+    {
+        "date": 1724658123000,
+        "action": "[Rental #247687667] Bike 612551 until 09:48:31 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1724864801000,
+        "action": "[Rental #248196253] Bike 610013 until 19:07:04 (Floriańska - Park Praski)",
+        "cost": null
+    },
+    {
+        "date": 1724864834000,
+        "action": "[Rental #248196409] Bike 612220 until 19:22:54 (Floriańska - Park Praski - Metro Stadion Narodowy)",
+        "cost": null
+    },
+    {
+        "date": 1725435187000,
+        "action": "[Rental #249464985] Bike 611631 until 09:37:16 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1725455812000,
+        "action": "[Rental #249517376] e-SMARTbike 2.0 RFID \"SWAP\" 613703 until 15:20:38 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1725512602000,
+        "action": "[Rental #249641570] Bike 613492 until 07:07:35 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1725535588000,
+        "action": "[Rental #249703187] e-SMARTbike 2.0 RFID \"SWAP\" 613670 until 13:35:35 (Rondo Starzyńskiego - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1725603825000,
+        "action": "[Rental #249863459] Bike 613255 until 08:28:13 (Metro Dworzec Wileński - Targowa - Jagiellońska - Ratuszowa)",
+        "cost": null
+    },
+    {
+        "date": 1725866690000,
+        "action": "[Rental #250441200] e-SMARTbike 2.0 RFID \"SWAP\" 613911 until 09:26:28 (Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1725866718000,
+        "action": "[Rental #250441249] Bike 611253 until 09:32:33 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1726040059000,
+        "action": "[Rental #250773199] Bike 611893 until 09:38:45 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1726489448000,
+        "action": "[Rental #251509775] e-SMARTbike 2.0 RFID \"SWAP\" 613751 until 14:24:46 (Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1726489496000,
+        "action": "[Rental #251509909] Bike 612069 until 14:30:22 (Plac Hallera - Dąbrowszczaków - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1726640637000,
+        "action": "[Rental #251822273] e-SMARTbike 2.0 RFID \"SWAP\" 613921 until 08:28:06 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1726665180000,
+        "action": "[Rental #251888975] Bike 613414 until 15:18:20 (BIKE 613414 - Metro Dworzec Wileński - Targowa) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1726665691000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": 1726733910000,
+        "action": "[Rental #252041953] Bike 612451 until 10:23:19 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1726745068000,
+        "action": "[Rental #252069009] e-SMARTbike 2.0 RFID \"SWAP\" 613871 until 13:32:33 (Darwina - Nusbauma-Hilarowicza - Św. Wincentego – Kołowa)",
+        "cost": null
+    },
+    {
+        "date": 1726745119000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1726748851000,
+        "action": "[Rental #252081767] e-SMARTbike 2.0 RFID \"SWAP\" 613871 until 14:40:27 (Św. Wincentego – Kołowa - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1727013417000,
+        "action": "[Rental #252591513] Bike 613322 until 16:02:18 (Rondo ONZ - al. Jerozolimskie - Emilii Plater)",
+        "cost": null
+    },
+    {
+        "date": 1727025600000,
+        "action": "[Rental #252635585] Bike 613099 until 19:23:34 (Metro Szwedzka - Wileńska - Rzeszotarskiej)",
+        "cost": null
+    },
+    {
+        "date": 1727073698000,
+        "action": "[Rental #252687438] Bike 611521 until 08:45:21 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1727157241000,
+        "action": "[Rental #252861032] Bike 610941 until 07:54:35 (Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1727177106000,
+        "action": "[Rental #252904966] Bike 613083 until 13:30:31 (BIKE 613083 - Metro Dworzec Wileński - Targowa) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1727177611000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": 1728382918000,
+        "action": "[Rental #254920695] Bike 612003 until 12:26:26 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1728987713000,
+        "action": "[Rental #255971290] Bike 611674 until 12:26:22 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1729147426000,
+        "action": "[Rental #256278856] e-SMARTbike 2.0 RFID \"SWAP\" 613900 until 08:47:10 (Metro Dworzec Wileński - Targowa - Jagiellońska - Plac Hallera)",
+        "cost": null
+    },
+    {
+        "date": 1729164434000,
+        "action": "[Rental #256314482] e-SMARTbike 2.0 RFID \"SWAP\" 613900 until 13:30:40 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1729492524000,
+        "action": "[Rental #256873695] Bike 612916 until 08:39:08 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1729513731000,
+        "action": "[Rental #256920508] Bike 610455 until 14:32:42 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1729578954000,
+        "action": "[Rental #257039012] e-SMARTbike 2.0 RFID \"SWAP\" 613794 until 08:39:54 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1729596336000,
+        "action": "[Rental #257079875] Bike 611603 until 13:30:20 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1729596361000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1729772762000,
+        "action": "[Rental #257441368] Bike 612920 until 14:37:30 (Arkadia - Metro Słodowiec)",
+        "cost": null
+    },
+    {
+        "date": 1730095486000,
+        "action": "[Rental #257989039] Bike 610521 until 07:05:06 (Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1730095512000,
+        "action": "[Rental #257989087] Bike 610834 until 07:09:20 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1730124995000,
+        "action": "[Rental #258062063] Bike 613289 until 15:22:23 (Jagiellońska - Plac Hallera - Metro Dworzec Wileński - Targowa)",
+        "cost": null
+    },
+    {
+        "date": 1730299323000,
+        "action": "[Rental #258408882] e-SMARTbike 2.0 RFID \"SWAP\" 613586 until 15:56:12 (Modlińska - Żerańska - Białołęka - Ratusz)",
+        "cost": null
+    },
+    {
+        "date": 1730302491000,
+        "action": "[Rental #258421151] Bike 612820 until 16:48:15 (Metro Nowy Świat - Uniwersytet - Emilii Plater - Świętokrzyska)",
+        "cost": null
+    },
+    {
+        "date": 1730461678000,
+        "action": "[Rental #258716871] e-SMARTbike 2.0 RFID \"SWAP\" 613533 until 12:52:39 (Metro Trocka - Św. Wincentego – Kołowa)",
+        "cost": null
+    },
+    {
+        "date": 1730466054000,
+        "action": "[Rental #258727589] e-SMARTbike 2.0 RFID \"SWAP\" 613533 until 14:05:12 (Św. Wincentego – Kołowa - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1730705692000,
+        "action": "[Rental #259036411] Bike 612588 until 08:39:39 (Metro Dworzec Wileński - Targowa - Plac Hallera - Dąbrowszczaków)",
+        "cost": null
+    },
+    {
+        "date": 1730802534000,
+        "action": "[Rental #259202712] e-SMARTbike 2.0 RFID \"SWAP\" 613812 until 11:41:35 (Rondo Starzyńskiego - Arkadia)",
+        "cost": null
+    },
+    {
+        "date": 1731689799000,
+        "action": "[Rental #260603471] Bike 612270 until 18:12:55 (Bulwar - most Śląsko - Dąbrowski - Sanguszki - Wybrzeże Gdańskie)",
+        "cost": null
+    },
+    {
+        "date": 1732191939000,
+        "action": "[Rental #261230082] e-SMARTbike 2.0 RFID \"SWAP\" 613720 until 13:37:45 (Plac Hallera - Dąbrowszczaków - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1732284841000,
+        "action": "[Rental #261352361] e-SMARTbike 2.0 RFID \"SWAP\" 613608 until 15:24:14 (Darwina - Nusbauma-Hilarowicza - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1732544249000,
+        "action": "[Rental #261632708] e-SMARTbike 2.0 RFID \"SWAP\" 613540 until 15:28:30 (Jagiellońska - Plac Hallera - Metro Trocka)",
+        "cost": null
+    },
+    {
+        "date": 1732612917000,
+        "action": "[Rental #261726313] e-SMARTbike 2.0 RFID \"SWAP\" 613851 until 10:42:18 (Sobieskiego - Mangalia - Plac Konstytucji) (reklamacja uznana przez chat)",
+        "cost": -6
+    },
+    {
+        "date": 1732614138000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1732614732000,
+        "action": "Decreased rental base price: Bike 613851 26.11. 10:21:57 [basePrice]",
+        "cost": 6
+    },
+    {
+        "date": 1732615674000,
+        "action": "[Rental #261729856] Bike 611743 until 11:08:23 (Metro Świętokrzyska) - Invalid (No charge)",
+        "cost": null
+    },
+    {
+        "date": 1732615727000,
+        "action": "[Rental #261729938] Bike 610179 until 11:09:13 (Metro Świętokrzyska)",
+        "cost": null
+    },
+    {
+        "date": 1732615762000,
+        "action": "[Rental #261729975] Bike 610284 until 11:16:10 (Metro Świętokrzyska - Krakowskie Przedmieście - Traugutta)",
+        "cost": null
+    },
+    {
+        "date": 1732616178000,
+        "action": "[Rental #261730570] e-SMARTbike 2.0 RFID \"SWAP\" 613839 until 11:36:56 (Krakowskie Przedmieście - Traugutta - Metro Centrum Nauki Kopernik) (reklamacja uznana przez chat)",
+        "cost": -6
+    },
+    {
+        "date": 1732617416000,
+        "action": "pro forma transaction (always 0)",
+        "cost": null
+    },
+    {
+        "date": 1732620636000,
+        "action": "Decreased rental base price: Bike 613839 26.11. 11:16:18 [basePrice]",
+        "cost": 6
+    },
+    {
+        "date": 1732792976000,
+        "action": "[Rental #262007545] Bike 610232 until 12:27:42 (Jagiellońska - Plac Hallera - Floriańska - Park Praski)",
+        "cost": null
+    },
+    {
+        "date": 1732795871000,
+        "action": "[Rental #262012679] Bike 613291 until 13:12:19 (BIKE 613291 - Stefana Banacha - UW) (Service bonus: PLN 5.00) (Reward for bringing bike to station PLN 5,00)",
+        "cost": 5
+    },
+    {
+        "date": 1732795963000,
+        "action": "[Rental #262012863] e-SMARTbike 2.0 RFID \"SWAP\" 613737 until 13:17:16 (Stefana Banacha - UW - Grójecka - Bitwy Warszawskiej 1920 roku)",
+        "cost": null
+    },
+    {
+        "date": 1732796120000,
+        "action": "GS/?: -",
+        "cost": null
+    },
+    {
+        "date": null,
+        "action": "Aktualny stan konta: PLN",
+        "cost": 30
+    }
+]
