@@ -1,0 +1,2417 @@
+[
+    [
+        "Węzeł Marki - S8",
+        [
+            21.09173,
+            52.30724
+        ]
+    ],
+    [
+        "Urząd Miasta Marki",
+        [
+            21.10772,
+            52.32681
+        ]
+    ],
+    [
+        "Wspólna",
+        [
+            21.11466,
+            52.33441
+        ]
+    ],
+    [
+        "Struga",
+        [
+            21.133943,
+            52.358675
+        ]
+    ],
+    [
+        "Czarna Struga",
+        [
+            21.11127,
+            52.36095
+        ]
+    ],
+    [
+        "Sosnowa",
+        [
+            21.0948,
+            52.3203
+        ]
+    ],
+    [
+        "Saturna",
+        [
+            21.12614,
+            52.32911
+        ]
+    ],
+    [
+        "PKP Piaseczno",
+        [
+            21.017962,
+            52.066818
+        ]
+    ],
+    [
+        "Centrum",
+        [
+            21.027054,
+            52.072829
+        ]
+    ],
+    [
+        "Józefosław",
+        [
+            21.052146,
+            52.09932
+        ]
+    ],
+    [
+        "Stadion",
+        [
+            21.034699,
+            52.062009
+        ]
+    ],
+    [
+        "Górki Szymona",
+        [
+            21.02435,
+            52.051776
+        ]
+    ],
+    [
+        "Kamionka",
+        [
+            20.983193,
+            52.056136
+        ]
+    ],
+    [
+        "Słowicza",
+        [
+            21.012316,
+            52.076118
+        ]
+    ],
+    [
+        "Koneser",
+        [
+            21.046219,
+            52.25602
+        ]
+    ],
+    [
+        "Nestle House",
+        [
+            21.00984,
+            52.183992
+        ]
+    ],
+    [
+        "UKSW",
+        [
+            20.958327,
+            52.296226
+        ]
+    ],
+    [
+        "Metro Młociny",
+        [
+            20.929556,
+            52.290974
+        ]
+    ],
+    [
+        "Marymoncka - Dewajtis",
+        [
+            20.95037,
+            52.290173
+        ]
+    ],
+    [
+        "Metro Wawrzyszew",
+        [
+            20.940561,
+            52.285914
+        ]
+    ],
+    [
+        "Redutowa - Pustola",
+        [
+            20.940959,
+            52.233682
+        ]
+    ],
+    [
+        "Metro Stare Bielany",
+        [
+            20.949887,
+            52.281627
+        ]
+    ],
+    [
+        "Bielany-Ratusz",
+        [
+            20.94813,
+            52.276877
+        ]
+    ],
+    [
+        "Metro Słodowiec",
+        [
+            20.961667,
+            52.276157
+        ]
+    ],
+    [
+        "OSiR Żoliborz",
+        [
+            20.985734,
+            52.277729
+        ]
+    ],
+    [
+        "al. Komandosów",
+        [
+            21.168017,
+            52.253001
+        ]
+    ],
+    [
+        "al. Reymonta - Conrada",
+        [
+            20.932627,
+            52.270941
+        ]
+    ],
+    [
+        "Broniewskiego - Perzyńskiego",
+        [
+            20.950418,
+            52.270644
+        ]
+    ],
+    [
+        "Metro Marymont",
+        [
+            20.97271,
+            52.27142
+        ]
+    ],
+    [
+        "Metro Plac Wilsona",
+        [
+            20.983366,
+            52.269408
+        ]
+    ],
+    [
+        "Broniewskiego - Włościańska",
+        [
+            20.963703,
+            52.266862
+        ]
+    ],
+    [
+        "Broniewskiego - Krasińskiego",
+        [
+            20.972318,
+            52.264398
+        ]
+    ],
+    [
+        "Wybrzeże Gdyńskie - KS Spójnia",
+        [
+            21.002067,
+            52.267875
+        ]
+    ],
+    [
+        "Plac Grunwaldzki",
+        [
+            20.980255,
+            52.262405
+        ]
+    ],
+    [
+        "Rondo Śmigielskiego",
+        [
+            21.189258,
+            52.247163
+        ]
+    ],
+    [
+        "Plac Inwalidów",
+        [
+            20.9896,
+            52.264502
+        ]
+    ],
+    [
+        "Pętla Stare Bemowo",
+        [
+            20.898614,
+            52.258245
+        ]
+    ],
+    [
+        "Pętla Nowe Bemowo",
+        [
+            20.923923,
+            52.260895
+        ]
+    ],
+    [
+        "Obrońców Tobruku - Pieniążka",
+        [
+            20.932337,
+            52.25759
+        ]
+    ],
+    [
+        "Powązkowska - Krasińskiego",
+        [
+            20.960551,
+            52.259323
+        ]
+    ],
+    [
+        "Powązkowska - Plac Niemena",
+        [
+            20.968231,
+            52.256315
+        ]
+    ],
+    [
+        "Przasnyska - Rydygiera",
+        [
+            20.970964,
+            52.258622
+        ]
+    ],
+    [
+        "Powązkowska - Burakowska",
+        [
+            20.979874,
+            52.253594
+        ]
+    ],
+    [
+        "Metro Dworzec Gdański",
+        [
+            20.994498,
+            52.257602
+        ]
+    ],
+    [
+        "Powstańców Śląskich - Radiowa",
+        [
+            20.913638,
+            52.252626
+        ]
+    ],
+    [
+        "Obozowa - Ciołka",
+        [
+            20.942922,
+            52.246595
+        ]
+    ],
+    [
+        "al. Prymasa Tysiąclecia - Kasprzaka",
+        [
+            20.956759,
+            52.227622
+        ]
+    ],
+    [
+        "Obozowa - Radziwie",
+        [
+            20.962463,
+            52.246037
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Stawki",
+        [
+            20.985705,
+            52.251471
+        ]
+    ],
+    [
+        "Stawki - Dubois",
+        [
+            20.991379,
+            52.253213
+        ]
+    ],
+    [
+        "Andersa - Muranowska",
+        [
+            20.998085,
+            52.25416
+        ]
+    ],
+    [
+        "Sanguszki - Wybrzeże Gdańskie",
+        [
+            21.009982,
+            52.255877
+        ]
+    ],
+    [
+        "Bysławska",
+        [
+            21.205074,
+            52.159678
+        ]
+    ],
+    [
+        "Okopowa - Anielewicza",
+        [
+            20.977868,
+            52.244114
+        ]
+    ],
+    [
+        "Smocza - Miła",
+        [
+            20.983458,
+            52.248553
+        ]
+    ],
+    [
+        "Smocza - Anielewicza",
+        [
+            20.985394,
+            52.246098
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Anielewicza",
+        [
+            20.989516,
+            52.247017
+        ]
+    ],
+    [
+        "Anielewicza - Zamenhofa",
+        [
+            20.994892,
+            52.249052
+        ]
+    ],
+    [
+        "Centrum Zdrowia Dziecka",
+        [
+            21.191126,
+            52.207438
+        ]
+    ],
+    [
+        "Bonifraterska - Franciszkańska",
+        [
+            21.002749,
+            52.251549
+        ]
+    ],
+    [
+        "Plac Krasińskich",
+        [
+            21.005578,
+            52.248862
+        ]
+    ],
+    [
+        "Kościelna - Piesza",
+        [
+            21.009334,
+            52.254112
+        ]
+    ],
+    [
+        "Bora-Komorowskiego - Fieldorfa 'Nila'",
+        [
+            21.093295,
+            52.226016
+        ]
+    ],
+    [
+        "Metro Bemowo",
+        [
+            20.913805,
+            52.239503
+        ]
+    ],
+    [
+        "Metro Księcia Janusza",
+        [
+            20.942309,
+            52.239541
+        ]
+    ],
+    [
+        "Czerwonych Beretów - Frontowa",
+        [
+            21.177609,
+            52.262273
+        ]
+    ],
+    [
+        "Leszno - Młynarska",
+        [
+            20.972332,
+            52.236881
+        ]
+    ],
+    [
+        "Dzielna - Bellottiego",
+        [
+            20.980379,
+            52.242888
+        ]
+    ],
+    [
+        "Wolność - Bellottiego",
+        [
+            20.98316,
+            52.24108
+        ]
+    ],
+    [
+        "Smocza - Nowolipki",
+        [
+            20.987351,
+            52.243545
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Nowolipki",
+        [
+            20.99177,
+            52.244577
+        ]
+    ],
+    [
+        "Powstańców Śląskich - Człuchowska",
+        [
+            20.91509,
+            52.22868
+        ]
+    ],
+    [
+        "Jana Olbrachta - Antka Rozpylacza",
+        [
+            20.934782,
+            52.234223
+        ]
+    ],
+    [
+        "Wola-Ratusz",
+        [
+            20.987728,
+            52.240162
+        ]
+    ],
+    [
+        "al. Jana Pawła II - al. Solidarności",
+        [
+            20.993004,
+            52.242178
+        ]
+    ],
+    [
+        "Dworzec Zachodni",
+        [
+            20.966339,
+            52.218454
+        ]
+    ],
+    [
+        "Andersa - Długa",
+        [
+            21.001294,
+            52.244947
+        ]
+    ],
+    [
+        "Pl. Bankowy - Ratusz",
+        [
+            21.001756,
+            52.243208
+        ]
+    ],
+    [
+        "Senatorska - Bielańska",
+        [
+            21.006692,
+            52.243571
+        ]
+    ],
+    [
+        "Szaserów - Serocka",
+        [
+            21.101847,
+            52.24697
+        ]
+    ],
+    [
+        "Miodowa",
+        [
+            21.011305,
+            52.24652
+        ]
+    ],
+    [
+        "Krakowskie Przedmieście - Trębacka",
+        [
+            21.01408,
+            52.243597
+        ]
+    ],
+    [
+        "Mariensztat",
+        [
+            21.017499,
+            52.24656
+        ]
+    ],
+    [
+        "Powstańców Śląskich - Połczyńska",
+        [
+            20.917589,
+            52.220591
+        ]
+    ],
+    [
+        "Ordona",
+        [
+            20.952359,
+            52.225261
+        ]
+    ],
+    [
+        "Gościniec",
+        [
+            21.223207,
+            52.222881
+        ]
+    ],
+    [
+        "al. Prymasa Tysiąclecia - Górczewska",
+        [
+            20.955493,
+            52.237662
+        ]
+    ],
+    [
+        "Wolska - Płocka",
+        [
+            20.965197,
+            52.233341
+        ]
+    ],
+    [
+        "Kasprzaka - Skierniewicka",
+        [
+            20.969639,
+            52.228522
+        ]
+    ],
+    [
+        "Kasprzaka - Karolkowa",
+        [
+            20.97843,
+            52.22898
+        ]
+    ],
+    [
+        "Muzeum Powstania Warszawskiego",
+        [
+            20.980406,
+            52.232987
+        ]
+    ],
+    [
+        "Metro Rondo Daszyńskiego",
+        [
+            20.983223,
+            52.229707
+        ]
+    ],
+    [
+        "Górczewska - Płocka",
+        [
+            20.965578,
+            52.23734
+        ]
+    ],
+    [
+        "Żelazna - Chłodna",
+        [
+            20.988849,
+            52.237314
+        ]
+    ],
+    [
+        "Żelazna - Grzybowska",
+        [
+            20.990512,
+            52.234495
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Plac Mirowski",
+        [
+            20.995973,
+            52.238024
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Grzybowska",
+        [
+            20.996607,
+            52.235715
+        ]
+    ],
+    [
+        "Rondo ONZ",
+        [
+            20.997123,
+            52.232628
+        ]
+    ],
+    [
+        "Ptasia - Zimna",
+        [
+            21.000301,
+            52.239571
+        ]
+    ],
+    [
+        "Emilii Plater - Świętokrzyska",
+        [
+            21.002811,
+            52.23373
+        ]
+    ],
+    [
+        "Plac Grzybowski",
+        [
+            21.003731,
+            52.235858
+        ]
+    ],
+    [
+        "Marszałkowska - Królewska",
+        [
+            21.006889,
+            52.238549
+        ]
+    ],
+    [
+        "Wolska - Hubalczyków",
+        [
+            20.929879,
+            52.223197
+        ]
+    ],
+    [
+        "Metro Świętokrzyska",
+        [
+            21.008976,
+            52.234868
+        ]
+    ],
+    [
+        "Plac Małachowskiego",
+        [
+            21.011929,
+            52.239701
+        ]
+    ],
+    [
+        "Plac Powstańców Warszawy",
+        [
+            21.013565,
+            52.235911
+        ]
+    ],
+    [
+        "Metro Nowy Świat - Uniwersytet",
+        [
+            21.017543,
+            52.236884
+        ]
+    ],
+    [
+        "Oboźna - Kopernika",
+        [
+            21.018401,
+            52.238298
+        ]
+    ],
+    [
+        "Lipowa - Dobra",
+        [
+            21.024259,
+            52.241907
+        ]
+    ],
+    [
+        "Centrum Nauki Kopernik",
+        [
+            21.028205,
+            52.241306
+        ]
+    ],
+    [
+        "Sobieskiego - Śródziemnomorska",
+        [
+            21.062015,
+            52.175434
+        ]
+    ],
+    [
+        "Żelazna - Sienna",
+        [
+            20.993996,
+            52.22983
+        ]
+    ],
+    [
+        "al. Jana Pawła II - Złota",
+        [
+            20.999486,
+            52.230194
+        ]
+    ],
+    [
+        "Emilii Plater - Złota",
+        [
+            21.003676,
+            52.230978
+        ]
+    ],
+    [
+        "Matejki - Wiejska",
+        [
+            21.02684,
+            52.225005
+        ]
+    ],
+    [
+        "al. Jerozolimskie - Krucza",
+        [
+            21.016738,
+            52.231056
+        ]
+    ],
+    [
+        "Marymoncka - Przy Agorze",
+        [
+            20.944576,
+            52.295106
+        ]
+    ],
+    [
+        "Marywilska - P&R Żerań",
+        [
+            21.000138,
+            52.315244
+        ]
+    ],
+    [
+        "Topiel - Tamka",
+        [
+            21.025649,
+            52.237593
+        ]
+    ],
+    [
+        "Metro Bródno",
+        [
+            21.027245,
+            52.293889
+        ]
+    ],
+    [
+        "al. Jerozolimskie - Niemcewicza",
+        [
+            20.979201,
+            52.22206
+        ]
+    ],
+    [
+        "Ochota-Ratusz",
+        [
+            20.986629,
+            52.222216
+        ]
+    ],
+    [
+        "Plac Zawiszy",
+        [
+            20.989825,
+            52.225335
+        ]
+    ],
+    [
+        "al. Jerozolimskie - Lindleya",
+        [
+            20.996131,
+            52.22626
+        ]
+    ],
+    [
+        "Lindleya - szpital",
+        [
+            20.997524,
+            52.224146
+        ]
+    ],
+    [
+        "Park Kultury w Powsinie",
+        [
+            21.087655,
+            52.11625
+        ]
+    ],
+    [
+        "Metro Dworzec Wileński - Targowa",
+        [
+            21.035691,
+            52.254294
+        ]
+    ],
+    [
+        "al. Jerozolimskie - Emilii Plater",
+        [
+            21.004899,
+            52.228102
+        ]
+    ],
+    [
+        "Emilii Plater - al. Jerozolimskie",
+        [
+            21.005454,
+            52.229046
+        ]
+    ],
+    [
+        "Emilii Plater - Wspólna",
+        [
+            21.006754,
+            52.225934
+        ]
+    ],
+    [
+        "Metro Centrum",
+        [
+            21.010973,
+            52.229939
+        ]
+    ],
+    [
+        "Marszałkowska - Al. Jerozolimskie",
+        [
+            21.011579,
+            52.229286
+        ]
+    ],
+    [
+        "Metro Kondratowicza",
+        [
+            21.048282,
+            52.291748
+        ]
+    ],
+    [
+        "Marszałkowska - Hoża",
+        [
+            21.013571,
+            52.226288
+        ]
+    ],
+    [
+        "Krucza - Wspólna",
+        [
+            21.017897,
+            52.228266
+        ]
+    ],
+    [
+        "Rondo de Gaulle'a",
+        [
+            21.021304,
+            52.23144
+        ]
+    ],
+    [
+        "Plac Trzech Krzyży",
+        [
+            21.023508,
+            52.227849
+        ]
+    ],
+    [
+        "Smolna - PKP Powiśle",
+        [
+            21.026118,
+            52.23324
+        ]
+    ],
+    [
+        "Kruczkowskiego - PKP Powiśle",
+        [
+            21.030033,
+            52.234019
+        ]
+    ],
+    [
+        "Czerniakowska- Szwoleżerów",
+        [
+            21.046341,
+            52.215851
+        ]
+    ],
+    [
+        "Książęca - Rozbrat",
+        [
+            21.030369,
+            52.230141
+        ]
+    ],
+    [
+        "Szczęśliwicka - APS",
+        [
+            20.971361,
+            52.217218
+        ]
+    ],
+    [
+        "Kopińska - Białobrzeska",
+        [
+            20.977596,
+            52.217863
+        ]
+    ],
+    [
+        "Plac Narutowicza",
+        [
+            20.982816,
+            52.217915
+        ]
+    ],
+    [
+        "Raszyńska - Wawelska",
+        [
+            20.987948,
+            52.216641
+        ]
+    ],
+    [
+        "Metro Ulrychów",
+        [
+            20.931161,
+            52.240163
+        ]
+    ],
+    [
+        "al. Niepodległości - Nowowiejska",
+        [
+            21.004555,
+            52.220676
+        ]
+    ],
+    [
+        "al. Armii Ludowej - al. Niepodległości",
+        [
+            21.004886,
+            52.216651
+        ]
+    ],
+    [
+        "Noakowskiego - Koszykowa",
+        [
+            21.00811,
+            52.222683
+        ]
+    ],
+    [
+        "Plac Politechniki",
+        [
+            21.011682,
+            52.219916
+        ]
+    ],
+    [
+        "Poznańska - Zespół Szkół Gastronomicznych",
+        [
+            21.012852,
+            52.223503
+        ]
+    ],
+    [
+        "Rondo Jazdy Polskiej",
+        [
+            21.014295,
+            52.217486
+        ]
+    ],
+    [
+        "Metro Zacisze",
+        [
+            21.062266,
+            52.283476
+        ]
+    ],
+    [
+        "Plac Zbawiciela",
+        [
+            21.017846,
+            52.220229
+        ]
+    ],
+    [
+        "Plac Konstytucji",
+        [
+            21.015821,
+            52.222943
+        ]
+    ],
+    [
+        "Mokotowska - Piękna",
+        [
+            21.020786,
+            52.223815
+        ]
+    ],
+    [
+        "Plac Na Rozdrożu",
+        [
+            21.02583,
+            52.219962
+        ]
+    ],
+    [
+        "Orlich Gniazd",
+        [
+            20.92013,
+            52.248819
+        ]
+    ],
+    [
+        "Myśliwiecka - Rozbrat",
+        [
+            21.034387,
+            52.222113
+        ]
+    ],
+    [
+        "Port Czerniakowski",
+        [
+            21.044296,
+            52.227712
+        ]
+    ],
+    [
+        "Grójecka - Bitwy Warszawskiej 1920 roku",
+        [
+            20.975913,
+            52.210971
+        ]
+    ],
+    [
+        "Dw. Wschodni - Lubelska",
+        [
+            21.05336,
+            52.25061
+        ]
+    ],
+    [
+        "Stefana Banacha - UW",
+        [
+            20.984756,
+            52.210772
+        ]
+    ],
+    [
+        "Biblioteka Narodowa",
+        [
+            21.003437,
+            52.212671
+        ]
+    ],
+    [
+        "Marszałkowska - Litewska",
+        [
+            21.01997,
+            52.21691
+        ]
+    ],
+    [
+        "Pętla Szczęśliwice",
+        [
+            20.96311,
+            52.208386
+        ]
+    ],
+    [
+        "Dickensa - Geodetów",
+        [
+            20.97024,
+            52.20604
+        ]
+    ],
+    [
+        "Żwirki i Wigury - Księcia Trojdena",
+        [
+            20.985098,
+            52.205197
+        ]
+    ],
+    [
+        "Rakowiecka - Św. A. Boboli",
+        [
+            20.998929,
+            52.205802
+        ]
+    ],
+    [
+        "al. Niepodległości - Batorego",
+        [
+            21.007851,
+            52.210833
+        ]
+    ],
+    [
+        "Plac Unii Lubelskiej",
+        [
+            21.021057,
+            52.213238
+        ]
+    ],
+    [
+        "Grójecka - PKP Rakowiec",
+        [
+            20.965252,
+            52.198639
+        ]
+    ],
+    [
+        "Sanocka - Pruszkowska",
+        [
+            20.98209,
+            52.201765
+        ]
+    ],
+    [
+        "Żwirki i Wigury - Racławicka",
+        [
+            20.983372,
+            52.198137
+        ]
+    ],
+    [
+        "Wołoska - Kulskiego",
+        [
+            20.99969,
+            52.20177
+        ]
+    ],
+    [
+        "Madalińskiego - Kazimierzowska",
+        [
+            21.014428,
+            52.204264
+        ]
+    ],
+    [
+        "Puławska - Dworkowa",
+        [
+            21.023103,
+            52.205518
+        ]
+    ],
+    [
+        "OSiR Wawer",
+        [
+            21.162012,
+            52.219459
+        ]
+    ],
+    [
+        "Czerniakowska - Gagarina",
+        [
+            21.047833,
+            52.207728
+        ]
+    ],
+    [
+        "Etiudy Rewolucyjnej - Miączyńska",
+        [
+            20.991443,
+            52.193813
+        ]
+    ],
+    [
+        "Metro Racławicka",
+        [
+            21.012138,
+            52.199416
+        ]
+    ],
+    [
+        "Puławska - Dolna",
+        [
+            21.024098,
+            52.199505
+        ]
+    ],
+    [
+        "Sobieskiego - Chełmska",
+        [
+            21.036893,
+            52.201936
+        ]
+    ],
+    [
+        "Czerniakowska - ZUS",
+        [
+            21.05095,
+            52.199845
+        ]
+    ],
+    [
+        "PKP Ursus - Niedźwiadek",
+        [
+            20.868969,
+            52.191678
+        ]
+    ],
+    [
+        "PKP Ursus",
+        [
+            20.884935,
+            52.196047
+        ]
+    ],
+    [
+        "Sosnkowskiego - OSiR Ursus",
+        [
+            20.890648,
+            52.186994
+        ]
+    ],
+    [
+        "Pętla Sadyba",
+        [
+            21.068535,
+            52.181474
+        ]
+    ],
+    [
+        "Skoroszewska - Prystora",
+        [
+            20.899944,
+            52.190638
+        ]
+    ],
+    [
+        "Książąt Mazowieckich - Heroldów",
+        [
+            20.929504,
+            52.302867
+        ]
+    ],
+    [
+        "PKP Włochy",
+        [
+            20.915914,
+            52.205644
+        ]
+    ],
+    [
+        "al. Jerozolimskie - Popularna",
+        [
+            20.935315,
+            52.201216
+        ]
+    ],
+    [
+        "Włochy - Ratusz",
+        [
+            20.959666,
+            52.192471
+        ]
+    ],
+    [
+        "Pętla Witolin",
+        [
+            21.113097,
+            52.236522
+        ]
+    ],
+    [
+        "Metro Wierzbno",
+        [
+            21.017447,
+            52.188957
+        ]
+    ],
+    [
+        "Puławska - Idzikowskiego",
+        [
+            21.02538,
+            52.18648
+        ]
+    ],
+    [
+        "Sobieskiego - Mangalia",
+        [
+            21.049883,
+            52.188286
+        ]
+    ],
+    [
+        "Wołoska - Woronicza",
+        [
+            21.00247,
+            52.18937
+        ]
+    ],
+    [
+        "Metro Wilanowska - Dworzec Południowy",
+        [
+            21.023577,
+            52.18082
+        ]
+    ],
+    [
+        "Św. Bonifacego - al. gen. W. Sikorskiego",
+        [
+            21.045167,
+            52.177247
+        ]
+    ],
+    [
+        "PKP Rembertów - Cyrulików",
+        [
+            21.157396,
+            52.257579
+        ]
+    ],
+    [
+        "Pętla Bokserska",
+        [
+            20.99584,
+            52.170182
+        ]
+    ],
+    [
+        "Rzymowskiego - Gotarda",
+        [
+            21.005914,
+            52.17105
+        ]
+    ],
+    [
+        "al. Lotników - Modzelewskiego",
+        [
+            21.012881,
+            52.174435
+        ]
+    ],
+    [
+        "Metro Służew",
+        [
+            21.025731,
+            52.173313
+        ]
+    ],
+    [
+        "PKP Rembertów - Marsa",
+        [
+            21.15805,
+            52.256711
+        ]
+    ],
+    [
+        "Branickiego - Ledóchowskiej",
+        [
+            21.073689,
+            52.155439
+        ]
+    ],
+    [
+        "al. Wilanowska - Przyczółkowa",
+        [
+            21.083933,
+            52.165588
+        ]
+    ],
+    [
+        "Vogla - Syta",
+        [
+            21.10925,
+            52.16479
+        ]
+    ],
+    [
+        "al. Rzeczypospolitej - Klimczaka",
+        [
+            21.072325,
+            52.160626
+        ]
+    ],
+    [
+        "PKP Ursus Północny",
+        [
+            20.887875,
+            52.206211
+        ]
+    ],
+    [
+        "Przyczółkowa - Branickiego",
+        [
+            21.086449,
+            52.159374
+        ]
+    ],
+    [
+        "Kochanowskiego - Galla Anonima",
+        [
+            20.942087,
+            52.269484
+        ]
+    ],
+    [
+        "Metro Ursynów",
+        [
+            21.028076,
+            52.162258
+        ]
+    ],
+    [
+        "Jastrzębowskiego - SGGW",
+        [
+            21.038381,
+            52.162401
+        ]
+    ],
+    [
+        "Metro Stokłosy",
+        [
+            21.03384,
+            52.156867
+        ]
+    ],
+    [
+        "Rosoła - Ciszewskiego - SGGW",
+        [
+            21.044008,
+            52.157289
+        ]
+    ],
+    [
+        "Puławska - Pileckiego",
+        [
+            21.018825,
+            52.152355
+        ]
+    ],
+    [
+        "Ciszewskiego - Pileckiego",
+        [
+            21.033253,
+            52.149506
+        ]
+    ],
+    [
+        "PKP Wesoła",
+        [
+            21.224155,
+            52.253523
+        ]
+    ],
+    [
+        "Metro Imielin",
+        [
+            21.045336,
+            52.149311
+        ]
+    ],
+    [
+        "Rosoła - Wesoła",
+        [
+            21.056392,
+            52.152233
+        ]
+    ],
+    [
+        "Pileckiego - Alternatywy",
+        [
+            21.038362,
+            52.14272
+        ]
+    ],
+    [
+        "Dereniowa - Płaskowickiej",
+        [
+            21.044813,
+            52.142735
+        ]
+    ],
+    [
+        "Stryjeńskich - Belgradzka",
+        [
+            21.050553,
+            52.137604
+        ]
+    ],
+    [
+        "Metro Natolin",
+        [
+            21.056819,
+            52.140391
+        ]
+    ],
+    [
+        "Belgradzka - Rosoła",
+        [
+            21.066076,
+            52.142018
+        ]
+    ],
+    [
+        "Stryjeńskich - Wąwozowa",
+        [
+            21.056156,
+            52.131433
+        ]
+    ],
+    [
+        "Ordonówny - Światowida",
+        [
+            20.94184,
+            52.332605
+        ]
+    ],
+    [
+        "Metro Kabaty",
+        [
+            21.06548,
+            52.131093
+        ]
+    ],
+    [
+        "Wąwozowa - Rosoła",
+        [
+            21.074796,
+            52.133264
+        ]
+    ],
+    [
+        "Skarbka z Gór - Berensona",
+        [
+            21.056547,
+            52.324196
+        ]
+    ],
+    [
+        "Lazurowa - Sternicza",
+        [
+            20.897887,
+            52.220789
+        ]
+    ],
+    [
+        "Światowida - Mehoffera",
+        [
+            20.944811,
+            52.322698
+        ]
+    ],
+    [
+        "Grupy AK Krybar",
+        [
+            21.066342,
+            52.208763
+        ]
+    ],
+    [
+        "Białołęka - Ratusz",
+        [
+            20.971296,
+            52.321127
+        ]
+    ],
+    [
+        "Myśliborska - al. Kuklińskiego",
+        [
+            20.965532,
+            52.313298
+        ]
+    ],
+    [
+        "Modlińska - Żerańska",
+        [
+            20.989167,
+            52.303198
+        ]
+    ],
+    [
+        "Świderska - Świętosławskiego",
+        [
+            20.95171,
+            52.316765
+        ]
+    ],
+    [
+        "Pętla Bródno - Podgrodzie",
+        [
+            21.042527,
+            52.300027
+        ]
+    ],
+    [
+        "Plac Hallera - Dąbrowszczaków",
+        [
+            21.030544,
+            52.261381
+        ]
+    ],
+    [
+        "Kaliskiego - Kocjana",
+        [
+            20.897757,
+            52.249465
+        ]
+    ],
+    [
+        "Kondratowicza - Chodecka",
+        [
+            21.040962,
+            52.292359
+        ]
+    ],
+    [
+        "Kondratowicza - Przy Grodzisku",
+        [
+            21.056987,
+            52.292431
+        ]
+    ],
+    [
+        "Wysockiego - Poborzańska",
+        [
+            21.021383,
+            52.287807
+        ]
+    ],
+    [
+        "Rembielińska - Wyszogrodzka",
+        [
+            21.031009,
+            52.288592
+        ]
+    ],
+    [
+        "Radzymińska - Łodygowa",
+        [
+            21.07535,
+            52.286662
+        ]
+    ],
+    [
+        "Wysockiego - Matki Teresy z Kalkuty",
+        [
+            21.025853,
+            52.281231
+        ]
+    ],
+    [
+        "Rondo Bułhaka",
+        [
+            21.223424,
+            52.246276
+        ]
+    ],
+    [
+        "Metro Trocka",
+        [
+            21.056083,
+            52.275799
+        ]
+    ],
+    [
+        "Św. Wincentego - Kołowa",
+        [
+            21.043095,
+            52.273679
+        ]
+    ],
+    [
+        "Metro Targówek Mieszkaniowy",
+        [
+            21.051284,
+            52.269795
+        ]
+    ],
+    [
+        "Radzymińska - Trocka",
+        [
+            21.06321,
+            52.272602
+        ]
+    ],
+    [
+        "Bukowiecka - Zamkowa",
+        [
+            21.07698,
+            52.27347
+        ]
+    ],
+    [
+        "Radzymińska - Piotra Skargi",
+        [
+            21.058568,
+            52.266889
+        ]
+    ],
+    [
+        "Wybrzeże Helskie - ZOO",
+        [
+            21.015574,
+            52.261437
+        ]
+    ],
+    [
+        "Rondo Starzyńskiego",
+        [
+            21.021278,
+            52.263182
+        ]
+    ],
+    [
+        "Darwina - Nusbauma-Hilarowicza",
+        [
+            21.02618,
+            52.26421
+        ]
+    ],
+    [
+        "Namysłowska - Darwina",
+        [
+            21.031197,
+            52.265499
+        ]
+    ],
+    [
+        "Rondo Żaba",
+        [
+            21.037949,
+            52.269041
+        ]
+    ],
+    [
+        "Jagiellońska - Plac Hallera",
+        [
+            21.026144,
+            52.259066
+        ]
+    ],
+    [
+        "Ratuszowa - ZOO",
+        [
+            21.02328,
+            52.253851
+        ]
+    ],
+    [
+        "Jagiellońska - Ratuszowa",
+        [
+            21.029538,
+            52.256355
+        ]
+    ],
+    [
+        "11 Listopada - Ratuszowa",
+        [
+            21.037614,
+            52.261449
+        ]
+    ],
+    [
+        "Park Kępa Potocka",
+        [
+            20.978694,
+            52.28794
+        ]
+    ],
+    [
+        "11 listopada - Inżynierska",
+        [
+            21.035176,
+            52.258547
+        ]
+    ],
+    [
+        "Ostrobramska - Motorowa",
+        [
+            21.081368,
+            52.235534
+        ]
+    ],
+    [
+        "Floriańska - Park Praski",
+        [
+            21.030388,
+            52.252425
+        ]
+    ],
+    [
+        "Rondo Fieldorfa",
+        [
+            21.169537,
+            52.264811
+        ]
+    ],
+    [
+        "Wileńska - Rzeszotarskiej",
+        [
+            21.03998,
+            52.257958
+        ]
+    ],
+    [
+        "al. Prymasa Tysiąclecia - Obozowa",
+        [
+            20.9568,
+            52.247585
+        ]
+    ],
+    [
+        "Jagiellońska - Okrzei",
+        [
+            21.035361,
+            52.251577
+        ]
+    ],
+    [
+        "Sierakowskiego - Kłopotowskiego",
+        [
+            21.031117,
+            52.250633
+        ]
+    ],
+    [
+        "Targowa - Ząbkowska",
+        [
+            21.038137,
+            52.252088
+        ]
+    ],
+    [
+        "Rondo Mościckiego",
+        [
+            21.126986,
+            52.23393
+        ]
+    ],
+    [
+        "Radzymińska - Wiosenna",
+        [
+            21.049793,
+            52.255882
+        ]
+    ],
+    [
+        "Radzymińska - Łomżyńska",
+        [
+            21.0529,
+            52.25965
+        ]
+    ],
+    [
+        "Pętla Kawęczyńska - Bazylika",
+        [
+            21.058534,
+            52.258351
+        ]
+    ],
+    [
+        "Targowa - Kijowska",
+        [
+            21.042911,
+            52.249865
+        ]
+    ],
+    [
+        "Dworzec Wschodni - Kijowska",
+        [
+            21.051033,
+            52.252745
+        ]
+    ],
+    [
+        "Metro Stadion Narodowy",
+        [
+            21.042731,
+            52.247314
+        ]
+    ],
+    [
+        "al. Zieleniecka - Teatr Powszechny",
+        [
+            21.047646,
+            52.247231
+        ]
+    ],
+    [
+        "Grochowska - Mińska",
+        [
+            21.056658,
+            52.247136
+        ]
+    ],
+    [
+        "Praga-Południe-Ratusz",
+        [
+            21.06868,
+            52.2464
+        ]
+    ],
+    [
+        "Dwernickiego - Siennicka",
+        [
+            21.077598,
+            52.2504
+        ]
+    ],
+    [
+        "Stalowa - Czynszowa",
+        [
+            21.041538,
+            52.260429
+        ]
+    ],
+    [
+        "Wybrzeże Szczecińskie - Stadion Narodowy",
+        [
+            21.043758,
+            52.237208
+        ]
+    ],
+    [
+        "Rondo Waszyngtona - Stadion Narodowy",
+        [
+            21.050845,
+            52.238733
+        ]
+    ],
+    [
+        "Waszyngtona - Kinowa",
+        [
+            21.07116,
+            52.242281
+        ]
+    ],
+    [
+        "Rondo Wiatraczna",
+        [
+            21.083806,
+            52.244564
+        ]
+    ],
+    [
+        "Francuska - Walecznych",
+        [
+            21.053651,
+            52.234745
+        ]
+    ],
+    [
+        "Międzynarodowa - Walecznych",
+        [
+            21.064774,
+            52.236598
+        ]
+    ],
+    [
+        "Plac Szembeka",
+        [
+            21.102494,
+            52.242685
+        ]
+    ],
+    [
+        "Pętla Gocławek",
+        [
+            21.120087,
+            52.237559
+        ]
+    ],
+    [
+        "Brukselska - PROM",
+        [
+            21.060062,
+            52.22585
+        ]
+    ],
+    [
+        "Metro Szwedzka",
+        [
+            21.046161,
+            52.263298
+        ]
+    ],
+    [
+        "Międzynarodowa - Zwycięzców",
+        [
+            21.067016,
+            52.232953
+        ]
+    ],
+    [
+        "Ostrobramska - Zamieniecka",
+        [
+            21.09975,
+            52.23483
+        ]
+    ],
+    [
+        "Afrykańska - Egipska",
+        [
+            21.071289,
+            52.225197
+        ]
+    ],
+    [
+        "Bora-Komorowskiego - Umińskiego",
+        [
+            21.10133,
+            52.223495
+        ]
+    ],
+    [
+        "Fieldorfa - Bukowskiego",
+        [
+            21.094524,
+            52.229435
+        ]
+    ],
+    [
+        "Rechniewskiego - Nowaka-Jeziorańskiego",
+        [
+            21.10624,
+            52.22974
+        ]
+    ],
+    [
+        "Meissnera - Fieldorfa",
+        [
+            21.090726,
+            52.222307
+        ]
+    ],
+    [
+        "Krakowskie Przedmieście - Traugutta",
+        [
+            21.016717,
+            52.23938
+        ]
+    ],
+    [
+        "Arkadia",
+        [
+            20.984343,
+            52.25574
+        ]
+    ],
+    [
+        "Blue City",
+        [
+            20.954887,
+            52.213203
+        ]
+    ],
+    [
+        "Eurocentrum",
+        [
+            20.972214,
+            52.220703
+        ]
+    ],
+    [
+        "Westfield Mokotów",
+        [
+            21.002814,
+            52.178689
+        ]
+    ],
+    [
+        "The Park Warsaw",
+        [
+            20.945091,
+            52.189299
+        ]
+    ],
+    [
+        "Warsaw Spire",
+        [
+            20.983233,
+            52.232538
+        ]
+    ],
+    [
+        "Wola Park",
+        [
+            20.929213,
+            52.241493
+        ]
+    ],
+    [
+        "Szaserów - Garwolińska",
+        [
+            21.092105,
+            52.249684
+        ]
+    ],
+    [
+        "Wolska - Redutowa",
+        [
+            20.941158,
+            52.226543
+        ]
+    ],
+    [
+        "Żwirki i Wigury - Woronicza",
+        [
+            20.982139,
+            52.194579
+        ]
+    ],
+    [
+        "Marymoncka - Podleśna",
+        [
+            20.958925,
+            52.281039
+        ]
+    ],
+    [
+        "Factory Annopol",
+        [
+            21.024163,
+            52.298441
+        ]
+    ],
+    [
+        "Bulwar - most Śląsko - Dąbrowski",
+        [
+            21.019663,
+            52.247972
+        ]
+    ],
+    [
+        "Metro Centrum Nauki Kopernik",
+        [
+            21.031269,
+            52.239205
+        ]
+    ],
+    [
+        "Wołoska - Odyńca",
+        [
+            21.002554,
+            52.195747
+        ]
+    ],
+    [
+        "Platan Park",
+        [
+            21.0064,
+            52.1544
+        ]
+    ],
+    [
+        "Marynarska 12",
+        [
+            20.992429,
+            52.181135
+        ]
+    ],
+    [
+        "Procter & Gamble",
+        [
+            21.072881,
+            52.260904
+        ]
+    ],
+    [
+        "PRAGA 306/PZO",
+        [
+            21.062545,
+            52.247246
+        ]
+    ],
+    [
+        "Signum Work Station",
+        [
+            20.991542,
+            52.183037
+        ]
+    ],
+    [
+        "Park Rozwoju",
+        [
+            20.988205,
+            52.186191
+        ]
+    ],
+    [
+        "Uniwersytet - SWPS",
+        [
+            21.066431,
+            52.247531
+        ]
+    ],
+    [
+        "Powstańców Śląskich - Wrocławska",
+        [
+            20.91931,
+            52.257631
+        ]
+    ],
+    [
+        "PKP Międzylesie",
+        [
+            21.168801,
+            52.205017
+        ]
+    ],
+    [
+        "Wólczyńska - Conrada",
+        [
+            20.923405,
+            52.281063
+        ]
+    ],
+    [
+        "Miasteczko Orange",
+        [
+            20.946434,
+            52.208711
+        ]
+    ],
+    [
+        "Warsaw UNIT",
+        [
+            20.98569,
+            52.229887
+        ]
+    ],
+    [
+        "Korkowa",
+        [
+            21.147235,
+            52.23828
+        ]
+    ],
+    [
+        "Paderewskiego - Czwartaków",
+        [
+            21.149855,
+            52.271148
+        ]
+    ],
+    [
+        "Dolina Służewiecka - Nowoursynowska",
+        [
+            21.041258,
+            52.17034
+        ]
+    ],
+    [
+        "Kłobucka - Jurajska",
+        [
+            20.992412,
+            52.1637
+        ]
+    ],
+    [
+        "Puławska - Kajakowa",
+        [
+            21.018367,
+            52.129592
+        ]
+    ],
+    [
+        "Kleszczowa - Krańcowa",
+        [
+            20.923586,
+            52.196958
+        ]
+    ],
+    [
+        "Chrościckiego - al. 4 Czerwca 1989 r.",
+        [
+            20.893987,
+            52.209302
+        ]
+    ],
+    [
+        "1 Sierpnia - DK Włochy",
+        [
+            20.967765,
+            52.194609
+        ]
+    ],
+    [
+        "Włodarzewska - Maszynowa",
+        [
+            20.950999,
+            52.202733
+        ]
+    ],
+    [
+        "Puławska - Pelikanów",
+        [
+            21.01854,
+            52.12293
+        ]
+    ],
+    [
+        "Puławska - Karmazynowa",
+        [
+            21.01887,
+            52.111877
+        ]
+    ],
+    [
+        "Al.KEN - Płaskowickiej",
+        [
+            21.051991,
+            52.144443
+        ]
+    ],
+    [
+        "Rembrandta - Miedza",
+        [
+            21.049645,
+            52.280625
+        ]
+    ],
+    [
+        "Aleja Wilanowska - Kosiarzy",
+        [
+            21.075315,
+            52.168315
+        ]
+    ]
+]

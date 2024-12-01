@@ -1,24 +1,34 @@
+import matchRoute, { Route } from "../analyzer/matchRoute";
 import { Line } from "../typings";
 
-interface RentalInfo {
-    id: string;
-    bikeType: string;
-    bikeNumber: string;
-    start: number;
-    end: number;
-    possibleRoutes: [string, string][];
-    notes: string[];
-}
+export type PossibleRoute = [string, string | undefined];
 
-const REGEX = /^\[Rental #(\d+)\]\s+(.*?)\s+(\d+)\s+until\s+(\d{2}:\d{2}:\d{2})\s+\((.*?)\)/gm;
+export type RentalInfo = {
+    rental:
+        | {
+              id: string;
+              bikeType: string;
+              bikeNumber: string;
+              start: number;
+              end: number;
+              route?: Route;
+              notes: string[];
+              serviceFee?: number;
+              bonusFee?: number;
+          }
+        | undefined;
+};
+
+const REGEX = /^\[Rental #(\d+)\]\s+(.*?)\s+(\d+)\s+until\s+(\d{2}:\d{2}:\d{2})\s+\((.*?)\)(.*)/gm;
 const NOTES_REGEX = /\((.*?)\)/g;
+const FEE_REGEX = /\(service fee: PLN (\d+\.\d{2})\)/;
+const BONUS_REGEX = /\(Service bonus: PLN (\d+\.\d{2})\)/;
 
-export default function parseLine(line: Line): RentalInfo | undefined {
+export default (line: Line): RentalInfo => {
     const matches = REGEX.exec(line.action);
+    if (!matches) return { rental: undefined };
 
-    if (!matches) return;
-
-    const [, rentalId, bikeType, bikeNumber, rentalEnd, route] = matches;
+    const [, rentalId, bikeType, bikeNumber, rentalEnd, route, notes] = matches;
 
     const start = new Date(line.date);
     const [hours, minutes, seconds] = rentalEnd.split(":").map(Number);
@@ -28,26 +38,38 @@ export default function parseLine(line: Line): RentalInfo | undefined {
 
     if (end < start) end.setDate(end.getDate() + 1);
 
-    return {
-        id: rentalId,
-        bikeType,
-        bikeNumber,
-        start: start.getTime(),
-        end: end.getTime(),
-        possibleRoutes: possibleRoutes(route),
-        notes: line.action.match(NOTES_REGEX) || [],
-    };
-}
+    const rentalNotes = notes.match(NOTES_REGEX)?.map((note) => note.slice(1, -1)) || [];
+    const serviceFee = FEE_REGEX.exec(notes)?.[1];
+    const bonusFee = BONUS_REGEX.exec(notes)?.[1];
 
-const possibleRoutes = (route: string): [string, string][] => {
+    const matchedRoute = matchRoute(possibleRoutes(route));
+
+    return {
+        rental: {
+            id: rentalId,
+            bikeType,
+            bikeNumber,
+            start: start.getTime(),
+            end: end.getTime(),
+            route: matchedRoute,
+            notes: rentalNotes,
+            serviceFee: serviceFee ? parseFloat(serviceFee) : undefined,
+            bonusFee: bonusFee ? parseFloat(bonusFee) : undefined,
+        },
+    };
+};
+
+const possibleRoutes = (route: string): PossibleRoute[] => {
     const splits: [string, string][] = [];
     let index = -1;
 
     while ((index = route.indexOf(" - ", index + 1)) !== -1) {
         const start = route.substring(0, index);
         const end = route.substring(index + 3);
-        splits.push([start, end]);
+        splits.push([parseStationName(start), parseStationName(end)]);
     }
 
-    return splits;
+    return [...splits, [parseStationName(route), undefined]];
 };
+
+const parseStationName = (station: string) => station.replace(/–/g, "-").trim();

@@ -1,6 +1,10 @@
 import { Line } from "../typings";
-import parseRental from "./parseRental";
+import parseFee, { FeeInfo } from "./parseFee";
+import parseRental, { RentalInfo } from "./parseRental";
 
-export default (line: Line) => {
-    if (line.action.includes("Rental")) return parseRental(line);
-};
+export type ParserResult = RentalInfo & FeeInfo;
+
+export const parse = (line: Line): ParserResult => ({
+    ...parseRental(line),
+    ...parseFee(line),
+});
